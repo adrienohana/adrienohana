@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adrienohana
-- 👀 I’m interested in Robotics, Data Science, Machine Learning & Artificial Intelligence as well as Computer Science in general
-- 🌱 I’m currently finishing my Master's degree in Robotics at EPFL with a minor in Data Science
-- 📫 How to reach me -> adrien.ohana(at)epfl(dot)ch
+- 👀 Interested in ML, AI, Data Science and Robotics
+- 🌱 Currently doing a Master Thesis at EPFL on NLP
+- 📫 How to reach me -> adrienohana(at)yahoo(dot)com
 
 <!---
 adrienohana/adrienohana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
