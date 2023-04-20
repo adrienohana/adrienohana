@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrienohana
 - 👀 Interested in ML, AI, Data Science and Robotics
-- 🌱 Currently doing a Master Thesis at EPFL on NLP
+- 🌱 Data Scientist at Effixis
 - 📫 How to reach me -> adrien(at)adrien(dot)ai
 
 <!---
